@@ -1,0 +1,3 @@
+- file vs database
+
+- Relational database model vs Document database model like NoSQL
